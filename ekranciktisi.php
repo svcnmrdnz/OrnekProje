@@ -1,0 +1,1 @@
+echo("ornek php projesi");
